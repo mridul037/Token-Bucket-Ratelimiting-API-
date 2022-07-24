@@ -3,7 +3,7 @@
 
  Here I have demostrated how to make api call to a ratelimited API
  
- with Token bucket algorithm to bucket api calls and benchmarked them with performance.now()
+ using *Token bucket algorithm* to bucket api calls and benchmarked them with performance.now()
 See also:
 
 [Wikipedia - Token Bucket](https://en.wikipedia.org/wiki/Token_bucket)
