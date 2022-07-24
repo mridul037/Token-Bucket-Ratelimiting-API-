@@ -10,7 +10,7 @@ See also:
 
 [Wikipedia - Leaky Bucket](http://en.wikipedia.org/wiki/Leaky_bucket)
 
-```const TokenBucketRateLimiter = require("./Token");
+```javascript
+   const TokenBucketRateLimiter = require("./Token");
    const tokenBucket= new TokenBucketRateLimiter();
-
 ```
