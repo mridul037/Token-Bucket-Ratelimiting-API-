@@ -14,3 +14,9 @@ See also:
    const TokenBucketRateLimiter = require("./Token");
    const tokenBucket= new TokenBucketRateLimiter();
 ```
+
+```javascript
+   tokenBucket(()=>callApi())
+```
+
+
